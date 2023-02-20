@@ -1,5 +1,3 @@
-
-# Extra: explore o módulo matplotlib e crie gráficos para as suas distribuições.
 from math import log2
 
 
